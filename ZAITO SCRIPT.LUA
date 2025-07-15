@@ -156,7 +156,8 @@ task.spawn(function()
         local player = game.Players.LocalPlayer
         if player and player.Name == "playsafe_kurt" then
             -- This is the original script URL for 'playsafe_kurt'
-           loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-NoLag-Hub-no-key-38699"))()
+           loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
         else
             -- This is for any other player
             loadstring(game:HttpGet("https://pastefy.app/NkomWxCB/raw"))()      
